@@ -1,0 +1,15 @@
+<link rel="stylesheet" type="text/css" href="/stylesheets/style.css">
+<div class="login-page">
+  <h2><b> <%= msg %> </b></h2>
+  <div class="form">
+    <form action="/process_login" method="post" class="login-form">
+      <input type="text" placeholder="username" name="username" />
+      <input type="password" placeholder="password" name="password"/>
+      <button>login</button>
+      <p class="message">Not registered? <a href="#">Create an account</a></p>
+    </form>
+  </div>
+  <% if (msg) { %>
+    
+  <% } %>
+</div>

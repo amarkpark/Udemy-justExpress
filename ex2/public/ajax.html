@@ -1,0 +1,18 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+  const inbound = $.ajax({
+    method: "POST",
+    url: "http://localhost:3333/ajax",
+    dataType: "json",
+    data: {
+      entree: "Morrocan Chicken",
+      side: "Couscous"
+    }
+  })
+  inbound.then((resp, statc, xmlhttpwhatev) => {
+    console.log(statc);
+    console.log(resp);
+    console.log(xmlhttpwhatev);
+  })
+</script>

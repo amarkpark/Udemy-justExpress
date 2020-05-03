@@ -1,0 +1,15 @@
+2019-02-25.19:41:19 /Users/amark/Udemy/Express/movie  5005  export PROMPT_COMMAND='if [ "$(id -u)" -ne 0 ]; then echo "$(date "+%Y-%m-%d.%H:%M:%S") $(pwd) $(history 1)" >> ~/Udemy/Express/bash-history-$(date "+%Y-%m-%d").log; fi'
+2019-02-25.19:41:31 /Users/amark/Udemy/Express/movie  5006  ./node_modules/.bin/express m_api
+2019-02-25.19:45:37 /Users/amark/Udemy/Express  4999  export PROMPT_COMMAND='if [ "$(id -u)" -ne 0 ]; then echo "$(date "+%Y-%m-%d.%H:%M:%S") $(pwd) $(history 1)" >> ~/Udemy/Express/bash-history-$(date "+%Y-%m-%d").log; fi'
+2019-02-25.19:46:51 /Users/amark/Udemy/Express/movie/m_api  5000  cd movie/m_api/
+2019-02-25.22:53:45 /Users/amark/Udemy/Express/movie  5001  cd ..
+2019-02-25.22:53:49 /Users/amark/Udemy/Express/movie/movie_api  5002  cd movie_api/
+2019-02-25.22:55:45 /Users/amark/Udemy/Express/movie/movie_api  5003  nodemon
+2019-02-25.22:57:39 /Users/amark/Udemy/Express/movie/movie_api  5004  nodemon
+2019-02-25.22:59:03 /Users/amark/Udemy/Express/movie/movie_api  5005  nodemon
+2019-02-25.22:59:08 /Users/amark/Udemy/Express/movie/movie_api  5006  clear
+2019-02-25.22:59:09 /Users/amark/Udemy/Express/movie/movie_api  5006  clear
+2019-02-25.22:59:10 /Users/amark/Udemy/Express/movie/movie_api  5006  clear
+2019-02-25.22:59:11 /Users/amark/Udemy/Express/movie/movie_api  5006  clear
+2019-02-25.22:59:11 /Users/amark/Udemy/Express/movie/movie_api  5006  clear
+2019-02-25.23:12:52 /Users/amark/Udemy/Express/movie/movie_api  5007  nodemon

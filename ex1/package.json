@@ -1,0 +1,14 @@
+{
+  "name": "udemy-express",
+  "version": "1.0.0",
+  "description": "exercises for udemy express.js class",
+  "main": "expressServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mostly Robert Bunch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
